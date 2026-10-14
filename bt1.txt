@@ -1,0 +1,8 @@
+Bài tập 1 : 
+Phần 1 : giải thích 
+1.	Lí do máy bị hiện “ not responding “ khi mở bằng notepad là bởi vì khi mở bằng notepad thì bộ nhớ RAM sẽ phải đột ngột hao tốn một lượng dung lượng và quá tải khiến notepad k thể xử lí dc 
+2.	Lệnh cat bị lỗi trong môi trường CMD là bởi vì môi trường CMD chưa cấp quyền thực thi dòng lệnh này 
+Phần 2: hoàn thiện 
+1.	Xem toàn bộ nội dung tệp : cat server_log_800MB.log
+2.	Xem 10 dòng cuối  : cat  server_log_800MB.log -tail
+
